@@ -67,3 +67,6 @@ Store Expansion: Consider expanding or optimizing stores in high-performing regi
 International Pricing: Adjust pricing strategies based on the impact of currency exchange rates on sales.
 10. Conclusion
 Summary: This project provided a comprehensive analysis of Global Electronics' data, resulting in actionable insights that can drive business growth. The recommendations aim to improve customer satisfaction, optimize operations, and enhance overall business performance
+
+
+
